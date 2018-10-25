@@ -1,1 +1,1 @@
-# java-project-college
+# simple-java-projects
